@@ -1,0 +1,1 @@
+int insertion(int *bursts, int *tempos, int tamanho);
